@@ -16,16 +16,25 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference. -->
 
-# Proyek Pemrograman Mobile
+Markdown
 
-## Deskripsi
+# Aplikasi 1 Candra
 
-Aplikasi latihan untuk Git
+## Tujuan
 
-## Pengembang
+Aplikasi ini dikembangkan sebagai proyek praktikum pemrograman perangkat bergerak berbasis Flutter.
 
-Nama panggilan / akun GitHub: summerville-26
+## Rencana Fitur
 
-## Status
+1. Autentikasi Pengguna (Login & Register)
+2. Tampilan Katalog / Daftar Konten Utama
+3. Manajemen Profil Pengguna
 
-Proyek awal perkuliahan.
+## Cara Menjalankan
+
+Untuk menjalankan proyek ini di lingkungan lokal, jalankan perintah berikut:
+
+```bash
+flutter pub get
+flutter run
+```
